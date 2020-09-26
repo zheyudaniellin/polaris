@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: polaristools
+Version: 2.0.0
+Summary: Python toolkit to make work with POLARIS easier
+Home-page: github.com/robertbrauer1988/Polaris
+Author: Robert Brauer
+Author-email: robert.brauer@cea.fr
+License: UNKNOWN
+Project-URL: POLARIS, http://www1.astrophysik.uni-kiel.de/~polaris/
+Description: See ../documentation.pdf
+        
+Keywords: radiative_transfer plotting data_analysis
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Scientists
+Classifier: Topic :: Radiative transfer
+Classifier: License :: GNU License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.0
+Description-Content-Type: text/markdown
